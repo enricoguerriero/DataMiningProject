@@ -1,0 +1,422 @@
+[
+    {
+        "driver": "151AR",
+        "route": [
+            {
+                "from": "Catanzaro",
+                "to": "Monza e della Brianza",
+                "merchandise": {
+                    "brxveg": 13,
+                    "oknp": 14,
+                    "kom": 6,
+                    "alf": 4,
+                    "mtdmgpvov": 19,
+                    "uyfw": 12,
+                    "makxmcru": 14,
+                    "jnsx": 11
+                }
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Palermo",
+                "merchandise": {
+                    "brxveg": 7,
+                    "sqv": 8,
+                    "hracaz": 25,
+                    "cnjgrzki": 19,
+                    "acp": 14,
+                    "xfwin": 2,
+                    "alf": 3,
+                    "ezwd": 10
+                }
+            },
+            {
+                "from": "Palermo",
+                "to": "Monza e della Brianza",
+                "merchandise": {
+                    "brxveg": 13,
+                    "oknp": 14,
+                    "kom": 6,
+                    "alf": 4,
+                    "mtdmgpvov": 19,
+                    "uyfw": 12,
+                    "makxmcru": 14,
+                    "jnsx": 11
+                }
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Pisa",
+                "merchandise": {
+                    "gftakzbb": 10,
+                    "jnsx": 11,
+                    "uyfw": 7,
+                    "mtdmgpvov": 8,
+                    "cnjhxvf": 12,
+                    "hracaz": 6,
+                    "alf": 5,
+                    "kom": 13
+                }
+            },
+            {
+                "from": "Pisa",
+                "to": "Monza e della Brianza",
+                "merchandise": {
+                    "brxveg": 13,
+                    "oknp": 14,
+                    "kom": 6,
+                    "alf": 4,
+                    "mtdmgpvov": 19,
+                    "uyfw": 12,
+                    "makxmcru": 14,
+                    "jnsx": 11
+                }
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Pisa",
+                "merchandise": {
+                    "gftakzbb": 10,
+                    "jnsx": 11,
+                    "uyfw": 7,
+                    "mtdmgpvov": 8,
+                    "cnjhxvf": 12,
+                    "hracaz": 6,
+                    "alf": 5,
+                    "kom": 13
+                }
+            }
+        ]
+    },
+    {
+        "driver": "RXSMG",
+        "route": [
+            {
+                "from": "Reggio nell'Emilia",
+                "to": "Brescia",
+                "merchandise": {
+                    "alf": 7,
+                    "vucdl": 8,
+                    "brxveg": 5,
+                    "acp": 13,
+                    "uyfw": 12,
+                    "tctwwscng": 3,
+                    "oknp": 12
+                }
+            },
+            {
+                "from": "Brescia",
+                "to": "Salerno",
+                "merchandise": {
+                    "tctwwscng": 9,
+                    "vucdl": 19,
+                    "brxveg": 13,
+                    "makxmcru": 14,
+                    "jnsx": 10,
+                    "sqv": 10,
+                    "alf": 10
+                }
+            },
+            {
+                "from": "Salerno",
+                "to": "Monza e della Brianza",
+                "merchandise": {
+                    "brxveg": 8,
+                    "oknp": 13,
+                    "vucdl": 12,
+                    "hracaz": 8,
+                    "kom": 4,
+                    "acp": 2,
+                    "alf": 4
+                }
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Pisa",
+                "merchandise": {
+                    "cnjgrzki": 4,
+                    "gaq": 17,
+                    "kom": 12,
+                    "oknp": 6,
+                    "obxths": 10,
+                    "uyfw": 7,
+                    "gftakzbb": 9
+                }
+            },
+            {
+                "from": "Pisa",
+                "to": "Pordenone",
+                "merchandise": {
+                    "oknp": 4,
+                    "brxveg": 9,
+                    "gaq": 6,
+                    "sqv": 6,
+                    "alf": 8,
+                    "mtdmgpvov": 7,
+                    "obxths": 4
+                }
+            }
+        ]
+    },
+    {
+        "driver": "FJWVC",
+        "route": [
+            {
+                "from": "Medio Campidano",
+                "to": "Biella",
+                "merchandise": {
+                    "ezwd": 3,
+                    "kom": 12,
+                    "makxmcru": 5,
+                    "obxths": 6,
+                    "gftakzbb": 18,
+                    "cnjgrzki": 9,
+                    "cnjhxvf": 3,
+                    "brxveg": 5
+                }
+            },
+            {
+                "from": "Biella",
+                "to": "Cremona",
+                "merchandise": {
+                    "kom": 1,
+                    "oknp": 4,
+                    "gftakzbb": 2,
+                    "cnjgrzki": 7,
+                    "jnsx": 0,
+                    "ezwd": 0,
+                    "makxmcru": 0,
+                    "obxths": 0
+                }
+            },
+            {
+                "from": "Cremona",
+                "to": "Pordenone",
+                "merchandise": {
+                    "sqv": 5,
+                    "xfwin": 8,
+                    "hracaz": 9,
+                    "gaq": 10,
+                    "oknp": 3,
+                    "kom": 11,
+                    "cnjgrzki": 4,
+                    "mtdmgpvov": 10
+                }
+            },
+            {
+                "from": "Pordenone",
+                "to": "Pisa",
+                "merchandise": {
+                    "jnsx": 9,
+                    "gftakzbb": 9,
+                    "uyfw": 8,
+                    "tctwwscng": 5,
+                    "kom": 15,
+                    "makxmcru": 10,
+                    "obxths": 10,
+                    "oknp": 6
+                }
+            },
+            {
+                "from": "Pisa",
+                "to": "Monza e della Brianza",
+                "merchandise": {
+                    "kom": 6,
+                    "oknp": 14,
+                    "brxveg": 11,
+                    "tctwwscng": 6,
+                    "cnjgrzki": 10,
+                    "acp": 2,
+                    "jnsx": 11,
+                    "makxmcru": 14
+                }
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Pisa",
+                "merchandise": {
+                    "jnsx": 9,
+                    "gftakzbb": 9,
+                    "uyfw": 8,
+                    "tctwwscng": 5,
+                    "kom": 15,
+                    "makxmcru": 10,
+                    "obxths": 10,
+                    "oknp": 6
+                }
+            }
+        ]
+    },
+    {
+        "driver": "AZFJ7",
+        "route": [
+            {
+                "from": "Palermo",
+                "to": "Monza e della Brianza",
+                "merchandise": {
+                    "oknp": 13,
+                    "brxveg": 11,
+                    "mtdmgpvov": 20,
+                    "kom": 6,
+                    "vucdl": 11,
+                    "jnsx": 13,
+                    "alf": 3,
+                    "uyfw": 13
+                }
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Pisa",
+                "merchandise": {
+                    "jnsx": 12,
+                    "gftakzbb": 11,
+                    "mtdmgpvov": 6,
+                    "cnjgrzki": 6,
+                    "cnjhxvf": 10,
+                    "uyfw": 7,
+                    "oknp": 7,
+                    "kom": 11
+                }
+            },
+            {
+                "from": "Pisa",
+                "to": "Monza e della Brianza",
+                "merchandise": {
+                    "oknp": 13,
+                    "brxveg": 11,
+                    "mtdmgpvov": 20,
+                    "kom": 6,
+                    "vucdl": 11,
+                    "jnsx": 13,
+                    "alf": 3,
+                    "uyfw": 13
+                }
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Palermo",
+                "merchandise": {
+                    "brxveg": 7,
+                    "mtdmgpvov": 1,
+                    "makxmcru": 10,
+                    "kom": 10,
+                    "sqv": 8,
+                    "cnjgrzki": 19,
+                    "xfwin": 2,
+                    "ezwd": 10
+                }
+            },
+            {
+                "from": "Palermo",
+                "to": "Pordenone",
+                "merchandise": {
+                    "oknp": 4,
+                    "sqv": 7,
+                    "mtdmgpvov": 8,
+                    "xfwin": 5,
+                    "cnjhxvf": 11,
+                    "ezwd": 15,
+                    "acp": 4,
+                    "alf": 10
+                }
+            },
+            {
+                "from": "Pordenone",
+                "to": "Catania",
+                "merchandise": {
+                    "sqv": 3,
+                    "brxveg": 10,
+                    "jnsx": 10,
+                    "cnjgrzki": 7,
+                    "makxmcru": 8,
+                    "kom": 6,
+                    "vucdl": 12,
+                    "obxths": 10
+                }
+            }
+        ]
+    },
+    {
+        "driver": "PJ9LL",
+        "route": [
+            {
+                "from": "Brescia",
+                "to": "Catanzaro",
+                "merchandise": {
+                    "makxmcru": 14,
+                    "mtdmgpvov": 6,
+                    "uyfw": 9,
+                    "sqv": 20,
+                    "kom": 4,
+                    "cnjgrzki": 5,
+                    "hracaz": 13
+                }
+            },
+            {
+                "from": "Catanzaro",
+                "to": "Palermo",
+                "merchandise": {
+                    "brxveg": 7,
+                    "acp": 14,
+                    "alf": 3,
+                    "ezwd": 10,
+                    "xfwin": 2,
+                    "sqv": 8,
+                    "kom": 10
+                }
+            },
+            {
+                "from": "Palermo",
+                "to": "Monza e della Brianza",
+                "merchandise": {
+                    "brxveg": 10,
+                    "oknp": 14,
+                    "kom": 5,
+                    "acp": 2,
+                    "tctwwscng": 5,
+                    "cnjgrzki": 9,
+                    "makxmcru": 16
+                }
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Pisa",
+                "merchandise": {
+                    "mtdmgpvov": 10,
+                    "gftakzbb": 13,
+                    "cnjhxvf": 11,
+                    "jnsx": 10,
+                    "tctwwscng": 4,
+                    "alf": 3,
+                    "uyfw": 6
+                }
+            },
+            {
+                "from": "Pisa",
+                "to": "Monza e della Brianza",
+                "merchandise": {
+                    "brxveg": 10,
+                    "oknp": 14,
+                    "kom": 5,
+                    "acp": 2,
+                    "tctwwscng": 5,
+                    "cnjgrzki": 9,
+                    "makxmcru": 16
+                }
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Pordenone",
+                "merchandise": {
+                    "oknp": 3,
+                    "mtdmgpvov": 8,
+                    "sqv": 7,
+                    "uyfw": 13,
+                    "gftakzbb": 7,
+                    "gaq": 5,
+                    "alf": 9
+                }
+            }
+        ]
+    }
+]

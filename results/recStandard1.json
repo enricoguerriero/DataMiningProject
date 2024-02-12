@@ -1,0 +1,774 @@
+[
+    {
+        "id": "s1",
+        "route": [
+            {
+                "from": "Brescia",
+                "to": "Pordenone",
+                "merchandise": {
+                    "obxths": 2,
+                    "tctwwscng": 13,
+                    "gftakzbb": 1,
+                    "uyfw": 6,
+                    "gaq": 2,
+                    "alf": 5,
+                    "brxveg": 7,
+                    "oknp": 6
+                }
+            },
+            {
+                "from": "Pordenone",
+                "to": "Catania",
+                "merchandise": {
+                    "jnsx": 13,
+                    "cnjhxvf": 14,
+                    "cnjgrzki": 11,
+                    "sqv": 1
+                }
+            },
+            {
+                "from": "Catania",
+                "to": "Trieste",
+                "merchandise": {
+                    "sqv": 11,
+                    "acp": 4,
+                    "kom": 8
+                }
+            },
+            {
+                "from": "Trieste",
+                "to": "Pisa",
+                "merchandise": {
+                    "gaq": 10,
+                    "cnjgrzki": 6,
+                    "sqv": 1
+                }
+            },
+            {
+                "from": "Pisa",
+                "to": "Biella",
+                "merchandise": {
+                    "obxths": 1,
+                    "tctwwscng": 8,
+                    "uyfw": 16,
+                    "gaq": 13,
+                    "jnsx": 1,
+                    "sqv": 2,
+                    "acp": 19,
+                    "xfwin": 11
+                }
+            }
+        ]
+    },
+    {
+        "id": "s2",
+        "route": [
+            {
+                "from": "Pescara",
+                "to": "Cosenza",
+                "merchandise": {
+                    "gftakzbb": 19,
+                    "mtdmgpvov": 17,
+                    "hracaz": 2,
+                    "cnjgrzki": 13,
+                    "tctwwscng": 3,
+                    "cnjhxvf": 12,
+                    "kom": 9
+                }
+            },
+            {
+                "from": "Cosenza",
+                "to": "Matera",
+                "merchandise": {
+                    "gftakzbb": 15,
+                    "mtdmgpvov": 5,
+                    "cnjgrzki": 10,
+                    "tctwwscng": 4,
+                    "cnjhxvf": 5,
+                    "ezwd": 7,
+                    "jnsx": 7
+                }
+            },
+            {
+                "from": "Matera",
+                "to": "Pordenone",
+                "merchandise": {
+                    "mtdmgpvov": 6,
+                    "cnjgrzki": 5,
+                    "kom": 2,
+                    "sqv": 5,
+                    "makxmcru": 10,
+                    "uyfw": 18,
+                    "oknp": 1
+                }
+            },
+            {
+                "from": "Pordenone",
+                "to": "Bari",
+                "merchandise": {
+                    "cnjgrzki": 3,
+                    "cnjhxvf": 11,
+                    "jnsx": 4,
+                    "sqv": 10,
+                    "vucdl": 12
+                }
+            }
+        ]
+    },
+    {
+        "id": "s3",
+        "route": [
+            {
+                "from": "Pordenone",
+                "to": "Pisa",
+                "merchandise": {
+                    "kom": 19,
+                    "makxmcru": 14,
+                    "obxths": 10,
+                    "uyfw": 10,
+                    "oknp": 5,
+                    "jnsx": 2,
+                    "tctwwscng": 6,
+                    "gftakzbb": 5
+                }
+            },
+            {
+                "from": "Pisa",
+                "to": "Cosenza",
+                "merchandise": {
+                    "kom": 17,
+                    "makxmcru": 10,
+                    "obxths": 6,
+                    "vucdl": 5,
+                    "alf": 3,
+                    "xfwin": 3,
+                    "hracaz": 6,
+                    "sqv": 10,
+                    "cnjgrzki": 7,
+                    "cnjhxvf": 6,
+                    "brxveg": 9
+                }
+            },
+            {
+                "from": "Cosenza",
+                "to": "Medio Campidano",
+                "merchandise": {
+                    "makxmcru": 20,
+                    "alf": 8,
+                    "cnjgrzki": 13
+                }
+            },
+            {
+                "from": "Medio Campidano",
+                "to": "Biella",
+                "merchandise": {
+                    "kom": 12,
+                    "makxmcru": 5,
+                    "obxths": 6,
+                    "gftakzbb": 18,
+                    "cnjgrzki": 9,
+                    "cnjhxvf": 3,
+                    "brxveg": 5,
+                    "ezwd": 3
+                }
+            },
+            {
+                "from": "Biella",
+                "to": "Cremona",
+                "merchandise": {
+                    "kom": 1,
+                    "oknp": 4,
+                    "gftakzbb": 2,
+                    "cnjgrzki": 7
+                }
+            },
+            {
+                "from": "Cremona",
+                "to": "Pordenone",
+                "merchandise": {
+                    "hracaz": 9,
+                    "gaq": 14,
+                    "kom": 15,
+                    "xfwin": 14,
+                    "sqv": 1,
+                    "cnjgrzki": 4,
+                    "makxmcru": 4,
+                    "obxths": 3,
+                    "oknp": 2,
+                    "tctwwscng": 9,
+                    "gftakzbb": 1,
+                    "brxveg": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "s4",
+        "route": [
+            {
+                "from": "Catanzaro",
+                "to": "Palermo",
+                "merchandise": {
+                    "brxveg": 7,
+                    "sqv": 8,
+                    "hracaz": 25,
+                    "cnjgrzki": 19,
+                    "acp": 14,
+                    "xfwin": 2,
+                    "alf": 3,
+                    "ezwd": 10,
+                    "kom": 10,
+                    "mtdmgpvov": 1,
+                    "makxmcru": 10
+                }
+            },
+            {
+                "from": "Palermo",
+                "to": "Pordenone",
+                "merchandise": {
+                    "brxveg": 13,
+                    "mtdmgpvov": 14,
+                    "sqv": 12,
+                    "hracaz": 14,
+                    "acp": 3,
+                    "xfwin": 1,
+                    "alf": 17,
+                    "ezwd": 16,
+                    "oknp": 1,
+                    "vucdl": 16,
+                    "obxths": 1,
+                    "gaq": 7,
+                    "gftakzbb": 11,
+                    "cnjhxvf": 14,
+                    "tctwwscng": 12,
+                    "makxmcru": 10
+                }
+            },
+            {
+                "from": "Pordenone",
+                "to": "Pisa",
+                "merchandise": {
+                    "hracaz": 6,
+                    "alf": 5,
+                    "mtdmgpvov": 9,
+                    "uyfw": 6,
+                    "gftakzbb": 11,
+                    "jnsx": 15,
+                    "cnjhxvf": 13,
+                    "cnjgrzki": 3,
+                    "brxveg": 7,
+                    "kom": 9,
+                    "oknp": 7,
+                    "obxths": 10,
+                    "gaq": 24,
+                    "makxmcru": 4,
+                    "sqv": 6,
+                    "acp": 13,
+                    "tctwwscng": 4
+                }
+            },
+            {
+                "from": "Pisa",
+                "to": "Monza e della Brianza",
+                "merchandise": {
+                    "brxveg": 10,
+                    "oknp": 15,
+                    "kom": 6,
+                    "tctwwscng": 7,
+                    "cnjgrzki": 10,
+                    "hracaz": 8,
+                    "alf": 3,
+                    "vucdl": 10,
+                    "uyfw": 14,
+                    "makxmcru": 16,
+                    "jnsx": 14,
+                    "mtdmgpvov": 24,
+                    "cnjhxvf": 6,
+                    "acp": 2,
+                    "sqv": 10,
+                    "ezwd": 10,
+                    "gaq": 6,
+                    "gftakzbb": 4,
+                    "obxths": 10
+                }
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Pescara",
+                "merchandise": {
+                    "sqv": 8,
+                    "hracaz": 4,
+                    "brxveg": 8,
+                    "acp": 9,
+                    "alf": 6,
+                    "ezwd": 3,
+                    "mtdmgpvov": 2,
+                    "vucdl": 7,
+                    "obxths": 9,
+                    "uyfw": 11,
+                    "makxmcru": 23,
+                    "jnsx": 9,
+                    "cnjhxvf": 13,
+                    "tctwwscng": 4
+                }
+            },
+            {
+                "from": "Pescara",
+                "to": "Campobasso",
+                "merchandise": {
+                    "sqv": 20,
+                    "hracaz": 13,
+                    "cnjgrzki": 5,
+                    "kom": 4,
+                    "mtdmgpvov": 6,
+                    "uyfw": 9,
+                    "makxmcru": 14
+                }
+            }
+        ]
+    },
+    {
+        "id": "s5",
+        "route": [
+            {
+                "from": "Brescia",
+                "to": "Pordenone",
+                "merchandise": {
+                    "obxths": 2,
+                    "tctwwscng": 13,
+                    "gftakzbb": 1,
+                    "uyfw": 6,
+                    "gaq": 2,
+                    "alf": 5,
+                    "brxveg": 7,
+                    "oknp": 6
+                }
+            },
+            {
+                "from": "Pordenone",
+                "to": "Catania",
+                "merchandise": {
+                    "jnsx": 13,
+                    "cnjhxvf": 14,
+                    "cnjgrzki": 11,
+                    "sqv": 1
+                }
+            },
+            {
+                "from": "Catania",
+                "to": "Trieste",
+                "merchandise": {
+                    "sqv": 11,
+                    "acp": 4,
+                    "kom": 8
+                }
+            },
+            {
+                "from": "Trieste",
+                "to": "Taranto",
+                "merchandise": {
+                    "gaq": 10,
+                    "cnjgrzki": 6,
+                    "sqv": 1
+                }
+            },
+            {
+                "from": "Taranto",
+                "to": "Biella",
+                "merchandise": {
+                    "obxths": 1,
+                    "tctwwscng": 8,
+                    "uyfw": 16,
+                    "gaq": 13,
+                    "jnsx": 1,
+                    "sqv": 2,
+                    "acp": 19,
+                    "xfwin": 11
+                }
+            }
+        ]
+    },
+    {
+        "id": "s6",
+        "route": [
+            {
+                "from": "Pescara",
+                "to": "Cosenza",
+                "merchandise": {
+                    "gftakzbb": 19,
+                    "mtdmgpvov": 17,
+                    "hracaz": 2,
+                    "cnjgrzki": 13,
+                    "tctwwscng": 3,
+                    "cnjhxvf": 12,
+                    "kom": 9
+                }
+            },
+            {
+                "from": "Cosenza",
+                "to": "Pisa",
+                "merchandise": {
+                    "gftakzbb": 15,
+                    "mtdmgpvov": 5,
+                    "cnjgrzki": 10,
+                    "tctwwscng": 4,
+                    "cnjhxvf": 5,
+                    "ezwd": 7,
+                    "jnsx": 7
+                }
+            },
+            {
+                "from": "Pisa",
+                "to": "Pordenone",
+                "merchandise": {
+                    "mtdmgpvov": 6,
+                    "cnjgrzki": 5,
+                    "kom": 2,
+                    "sqv": 5,
+                    "makxmcru": 10,
+                    "uyfw": 18,
+                    "oknp": 1
+                }
+            },
+            {
+                "from": "Pordenone",
+                "to": "Salerno",
+                "merchandise": {
+                    "cnjgrzki": 3,
+                    "cnjhxvf": 11,
+                    "jnsx": 4,
+                    "sqv": 10,
+                    "vucdl": 12
+                }
+            },
+            {
+                "from": "Salerno",
+                "to": "Pescara",
+                "merchandise": {
+                    "cnjhxvf": 12,
+                    "kom": 3,
+                    "sqv": 13,
+                    "uyfw": 4,
+                    "oknp": 13,
+                    "xfwin": 13,
+                    "gaq": 11,
+                    "alf": 25,
+                    "acp": 4
+                }
+            }
+        ]
+    },
+    {
+        "id": "s7",
+        "route": [
+            {
+                "from": "Monza e della Brianza",
+                "to": "Pescara",
+                "merchandise": {
+                    "acp": 9,
+                    "alf": 17,
+                    "gaq": 16
+                }
+            },
+            {
+                "from": "Pescara",
+                "to": "Pordenone",
+                "merchandise": {
+                    "acp": 5,
+                    "ezwd": 15,
+                    "cnjhxvf": 8,
+                    "xfwin": 7,
+                    "oknp": 7,
+                    "sqv": 4,
+                    "mtdmgpvov": 3,
+                    "alf": 1,
+                    "cnjgrzki": 2,
+                    "vucdl": 13,
+                    "hracaz": 1,
+                    "tctwwscng": 12,
+                    "jnsx": 4,
+                    "gaq": 8,
+                    "brxveg": 10,
+                    "obxths": 15,
+                    "makxmcru": 9,
+                    "gftakzbb": 10,
+                    "uyfw": 13,
+                    "kom": 2
+                }
+            },
+            {
+                "from": "Pordenone",
+                "to": "Catania",
+                "merchandise": {
+                    "brxveg": 11,
+                    "makxmcru": 8,
+                    "cnjgrzki": 4,
+                    "gftakzbb": 6,
+                    "kom": 8,
+                    "gaq": 2,
+                    "ezwd": 19,
+                    "sqv": 8,
+                    "vucdl": 7,
+                    "jnsx": 2
+                }
+            },
+            {
+                "from": "Catania",
+                "to": "Ancona",
+                "merchandise": {
+                    "acp": 10,
+                    "gaq": 7,
+                    "cnjhxvf": 5,
+                    "xfwin": 16,
+                    "gftakzbb": 2,
+                    "vucdl": 11
+                }
+            },
+            {
+                "from": "Ancona",
+                "to": "Brescia",
+                "merchandise": {
+                    "acp": 6,
+                    "alf": 5,
+                    "gaq": 10,
+                    "ezwd": 5,
+                    "cnjhxvf": 11,
+                    "obxths": 8,
+                    "uyfw": 9,
+                    "vucdl": 7,
+                    "hracaz": 9,
+                    "tctwwscng": 5
+                }
+            },
+            {
+                "from": "Brescia",
+                "to": "Vicenza",
+                "merchandise": {
+                    "ezwd": 19,
+                    "makxmcru": 9,
+                    "gftakzbb": 7,
+                    "kom": 11,
+                    "cnjgrzki": 6,
+                    "jnsx": 2
+                }
+            },
+            {
+                "from": "Vicenza",
+                "to": "Pordenone",
+                "merchandise": {
+                    "acp": 5,
+                    "ezwd": 15,
+                    "cnjhxvf": 8,
+                    "xfwin": 7,
+                    "oknp": 7,
+                    "sqv": 4,
+                    "mtdmgpvov": 3,
+                    "alf": 1,
+                    "cnjgrzki": 2,
+                    "vucdl": 13,
+                    "hracaz": 1,
+                    "tctwwscng": 12,
+                    "jnsx": 4,
+                    "gaq": 8,
+                    "brxveg": 10,
+                    "obxths": 15,
+                    "makxmcru": 9,
+                    "gftakzbb": 10,
+                    "uyfw": 13,
+                    "kom": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "s8",
+        "route": [
+            {
+                "from": "Ragusa",
+                "to": "Salerno",
+                "merchandise": {
+                    "tctwwscng": 9,
+                    "sqv": 10,
+                    "alf": 10,
+                    "vucdl": 19,
+                    "jnsx": 10,
+                    "brxveg": 13,
+                    "makxmcru": 14
+                }
+            },
+            {
+                "from": "Salerno",
+                "to": "Monza e della Brianza",
+                "merchandise": {}
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Cosenza",
+                "merchandise": {
+                    "alf": 9,
+                    "acp": 6,
+                    "uyfw": 5,
+                    "ezwd": 6,
+                    "hracaz": 4,
+                    "xfwin": 3,
+                    "jnsx": 3
+                }
+            },
+            {
+                "from": "Cosenza",
+                "to": "Ancona",
+                "merchandise": {
+                    "sqv": 1,
+                    "kom": 7,
+                    "ezwd": 1,
+                    "hracaz": 5,
+                    "xfwin": 9,
+                    "gftakzbb": 2,
+                    "cnjgrzki": 1
+                }
+            },
+            {
+                "from": "Ancona",
+                "to": "Brescia",
+                "merchandise": {
+                    "alf": 10,
+                    "vucdl": 8,
+                    "brxveg": 6,
+                    "ezwd": 5,
+                    "hracaz": 14,
+                    "obxths": 5,
+                    "cnjhxvf": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "s9",
+        "route": [
+            {
+                "from": "Catania",
+                "to": "Trieste",
+                "merchandise": {
+                    "mtdmgpvov": 3,
+                    "jnsx": 20,
+                    "gftakzbb": 8,
+                    "cnjhxvf": 3,
+                    "brxveg": 11,
+                    "ezwd": 9
+                }
+            },
+            {
+                "from": "Trieste",
+                "to": "Monza e della Brianza",
+                "merchandise": {
+                    "obxths": 10,
+                    "mtdmgpvov": 5,
+                    "oknp": 3,
+                    "kom": 3,
+                    "sqv": 9,
+                    "jnsx": 5,
+                    "vucdl": 22,
+                    "brxveg": 13,
+                    "makxmcru": 13,
+                    "acp": 2,
+                    "alf": 8,
+                    "uyfw": 6
+                }
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Catania",
+                "merchandise": {
+                    "vucdl": 16,
+                    "brxveg": 11,
+                    "obxths": 9,
+                    "kom": 7,
+                    "sqv": 3,
+                    "jnsx": 9,
+                    "makxmcru": 8,
+                    "xfwin": 3,
+                    "mtdmgpvov": 5,
+                    "oknp": 3
+                }
+            },
+            {
+                "from": "Catania",
+                "to": "Palermo",
+                "merchandise": {}
+            },
+            {
+                "from": "Palermo",
+                "to": "Lodi",
+                "merchandise": {
+                    "mtdmgpvov": 4,
+                    "oknp": 11,
+                    "kom": 21,
+                    "sqv": 12,
+                    "jnsx": 7,
+                    "cnjgrzki": 13,
+                    "gftakzbb": 5,
+                    "cnjhxvf": 13
+                }
+            }
+        ]
+    },
+    {
+        "id": "s10",
+        "route": [
+            {
+                "from": "Reggio nell'Emilia",
+                "to": "Brescia",
+                "merchandise": {
+                    "vucdl": 8,
+                    "gftakzbb": 12,
+                    "brxveg": 5,
+                    "tctwwscng": 3,
+                    "acp": 14,
+                    "oknp": 12,
+                    "uyfw": 12,
+                    "alf": 7
+                }
+            },
+            {
+                "from": "Brescia",
+                "to": "Salerno",
+                "merchandise": {
+                    "tctwwscng": 10,
+                    "vucdl": 19,
+                    "brxveg": 13,
+                    "jnsx": 10,
+                    "makxmcru": 14
+                }
+            },
+            {
+                "from": "Salerno",
+                "to": "Monza e della Brianza",
+                "merchandise": {}
+            },
+            {
+                "from": "Monza e della Brianza",
+                "to": "Cosenza",
+                "merchandise": {
+                    "alf": 9,
+                    "xfwin": 3,
+                    "hracaz": 4,
+                    "ezwd": 6,
+                    "jnsx": 3,
+                    "makxmcru": 11,
+                    "mtdmgpvov": 8
+                }
+            },
+            {
+                "from": "Cosenza",
+                "to": "Salerno",
+                "merchandise": {
+                    "tctwwscng": 10,
+                    "vucdl": 19,
+                    "brxveg": 13,
+                    "jnsx": 10,
+                    "makxmcru": 14
+                }
+            }
+        ]
+    }
+]

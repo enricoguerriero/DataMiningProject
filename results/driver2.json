@@ -1,0 +1,502 @@
+[
+    {
+        "driver": "UH3PI",
+        "routes": [
+            "s2",
+            "s4",
+            "s5",
+            "s9",
+            "s1"
+        ]
+    },
+    {
+        "driver": "RXSSJ",
+        "routes": [
+            "s2",
+            "s1",
+            "s5",
+            "s9",
+            "s4"
+        ]
+    },
+    {
+        "driver": "JG9HN",
+        "routes": [
+            "s1",
+            "s5",
+            "s2",
+            "s4",
+            "s6"
+        ]
+    },
+    {
+        "driver": "HTD0P",
+        "routes": [
+            "s5",
+            "s2",
+            "s1",
+            "s6",
+            "s7"
+        ]
+    },
+    {
+        "driver": "UCXPC",
+        "routes": [
+            "s2",
+            "s4",
+            "s5",
+            "s9",
+            "s10"
+        ]
+    },
+    {
+        "driver": "4FQZG",
+        "routes": [
+            "s7",
+            "s2",
+            "s3",
+            "s5",
+            "s10"
+        ]
+    },
+    {
+        "driver": "RXGGW",
+        "routes": [
+            "s1",
+            "s4",
+            "s3",
+            "s9",
+            "s5"
+        ]
+    },
+    {
+        "driver": "31HMI",
+        "routes": [
+            "s6",
+            "s1",
+            "s2",
+            "s5",
+            "s4"
+        ]
+    },
+    {
+        "driver": "7AIPE",
+        "routes": [
+            "s2",
+            "s1",
+            "s5",
+            "s4",
+            "s9"
+        ]
+    },
+    {
+        "driver": "FFZ94",
+        "routes": [
+            "s5",
+            "s4",
+            "s1",
+            "s6",
+            "s2"
+        ]
+    },
+    {
+        "driver": "5DH7A",
+        "routes": [
+            "s2",
+            "s5",
+            "s1",
+            "s4",
+            "s9"
+        ]
+    },
+    {
+        "driver": "DZSTD",
+        "routes": [
+            "s3",
+            "s2",
+            "s5",
+            "s4",
+            "s1"
+        ]
+    },
+    {
+        "driver": "Q6846",
+        "routes": [
+            "s1",
+            "s2",
+            "s9",
+            "s4",
+            "s5"
+        ]
+    },
+    {
+        "driver": "XGYSU",
+        "routes": [
+            "s1",
+            "s4",
+            "s2",
+            "s5",
+            "s10"
+        ]
+    },
+    {
+        "driver": "7XJLW",
+        "routes": [
+            "s5",
+            "s2",
+            "s1",
+            "s4",
+            "s9"
+        ]
+    },
+    {
+        "driver": "UN28E",
+        "routes": [
+            "s1",
+            "s4",
+            "s5",
+            "s2",
+            "s9"
+        ]
+    },
+    {
+        "driver": "WW5X4",
+        "routes": [
+            "s9",
+            "s4",
+            "s5",
+            "s2",
+            "s1"
+        ]
+    },
+    {
+        "driver": "XPBUZ",
+        "routes": [
+            "s9",
+            "s1",
+            "s5",
+            "s4",
+            "s2"
+        ]
+    },
+    {
+        "driver": "ZOPTR",
+        "routes": [
+            "s1",
+            "s3",
+            "s4",
+            "s2",
+            "s5"
+        ]
+    },
+    {
+        "driver": "5NYPC",
+        "routes": [
+            "s8",
+            "s2",
+            "s5",
+            "s1",
+            "s9"
+        ]
+    },
+    {
+        "driver": "F01LO",
+        "routes": [
+            "s2",
+            "s5",
+            "s4",
+            "s1",
+            "s9"
+        ]
+    },
+    {
+        "driver": "7VOHL",
+        "routes": [
+            "s5",
+            "s4",
+            "s2",
+            "s9",
+            "s6"
+        ]
+    },
+    {
+        "driver": "V7UXS",
+        "routes": [
+            "s1",
+            "s5",
+            "s4",
+            "s9",
+            "s8"
+        ]
+    },
+    {
+        "driver": "ZKTLB",
+        "routes": [
+            "s8",
+            "s4",
+            "s10",
+            "s1",
+            "s5"
+        ]
+    },
+    {
+        "driver": "GXGFT",
+        "routes": [
+            "s1",
+            "s4",
+            "s2",
+            "s8",
+            "s5"
+        ]
+    },
+    {
+        "driver": "U0D09",
+        "routes": [
+            "s3",
+            "s8",
+            "s2",
+            "s5",
+            "s1"
+        ]
+    },
+    {
+        "driver": "H4VCY",
+        "routes": [
+            "s8",
+            "s1",
+            "s2",
+            "s5",
+            "s4"
+        ]
+    },
+    {
+        "driver": "T45MZ",
+        "routes": [
+            "s2",
+            "s5",
+            "s3",
+            "s1",
+            "s9"
+        ]
+    },
+    {
+        "driver": "3XHES",
+        "routes": [
+            "s5",
+            "s1",
+            "s2",
+            "s4",
+            "s9"
+        ]
+    },
+    {
+        "driver": "KGX67",
+        "routes": [
+            "s1",
+            "s6",
+            "s5",
+            "s10",
+            "s4"
+        ]
+    },
+    {
+        "driver": "1DTZT",
+        "routes": [
+            "s1",
+            "s6",
+            "s2",
+            "s5",
+            "s4"
+        ]
+    },
+    {
+        "driver": "MA76V",
+        "routes": [
+            "s2",
+            "s1",
+            "s5",
+            "s4",
+            "s9"
+        ]
+    },
+    {
+        "driver": "779S0",
+        "routes": [
+            "s2",
+            "s5",
+            "s1",
+            "s4",
+            "s9"
+        ]
+    },
+    {
+        "driver": "IE3Y5",
+        "routes": [
+            "s8",
+            "s4",
+            "s5",
+            "s6",
+            "s1"
+        ]
+    },
+    {
+        "driver": "LQU0C",
+        "routes": [
+            "s2",
+            "s9",
+            "s1",
+            "s5",
+            "s6"
+        ]
+    },
+    {
+        "driver": "Z08RB",
+        "routes": [
+            "s5",
+            "s1",
+            "s4",
+            "s2",
+            "s9"
+        ]
+    },
+    {
+        "driver": "WXOAA",
+        "routes": [
+            "s1",
+            "s2",
+            "s4",
+            "s5",
+            "s9"
+        ]
+    },
+    {
+        "driver": "O7O5M",
+        "routes": [
+            "s1",
+            "s5",
+            "s4",
+            "s9",
+            "s2"
+        ]
+    },
+    {
+        "driver": "V8SBC",
+        "routes": [
+            "s4",
+            "s1",
+            "s2",
+            "s9",
+            "s3"
+        ]
+    },
+    {
+        "driver": "IK3S1",
+        "routes": [
+            "s9",
+            "s5",
+            "s1",
+            "s2",
+            "s4"
+        ]
+    },
+    {
+        "driver": "Z7UT7",
+        "routes": [
+            "s6",
+            "s1",
+            "s4",
+            "s2",
+            "s5"
+        ]
+    },
+    {
+        "driver": "O7STS",
+        "routes": [
+            "s9",
+            "s4",
+            "s5",
+            "s2",
+            "s1"
+        ]
+    },
+    {
+        "driver": "ADZOQ",
+        "routes": [
+            "s1",
+            "s4",
+            "s5",
+            "s2",
+            "s6"
+        ]
+    },
+    {
+        "driver": "V0ULE",
+        "routes": [
+            "s1",
+            "s3",
+            "s5",
+            "s4",
+            "s9"
+        ]
+    },
+    {
+        "driver": "F1ZO3",
+        "routes": [
+            "s1",
+            "s5",
+            "s4",
+            "s2",
+            "s8"
+        ]
+    },
+    {
+        "driver": "ERJM6",
+        "routes": [
+            "s5",
+            "s4",
+            "s2",
+            "s1",
+            "s8"
+        ]
+    },
+    {
+        "driver": "HK8SF",
+        "routes": [
+            "s5",
+            "s4",
+            "s1",
+            "s6",
+            "s2"
+        ]
+    },
+    {
+        "driver": "FX861",
+        "routes": [
+            "s5",
+            "s1",
+            "s9",
+            "s2",
+            "s6"
+        ]
+    },
+    {
+        "driver": "IA137",
+        "routes": [
+            "s1",
+            "s4",
+            "s2",
+            "s5",
+            "s6"
+        ]
+    },
+    {
+        "driver": "LRMUQ",
+        "routes": [
+            "s5",
+            "s2",
+            "s4",
+            "s9",
+            "s8"
+        ]
+    }
+]

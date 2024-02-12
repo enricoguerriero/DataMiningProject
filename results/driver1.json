@@ -1,0 +1,52 @@
+[
+    {
+        "driver": "151AR",
+        "routes": [
+            "s3",
+            "s1",
+            "s7",
+            "s9",
+            "s6"
+        ]
+    },
+    {
+        "driver": "RXSMG",
+        "routes": [
+            "s5",
+            "s3",
+            "s1",
+            "s7",
+            "s2"
+        ]
+    },
+    {
+        "driver": "FJWVC",
+        "routes": [
+            "s1",
+            "s3",
+            "s10",
+            "s5",
+            "s6"
+        ]
+    },
+    {
+        "driver": "AZFJ7",
+        "routes": [
+            "s3",
+            "s10",
+            "s9",
+            "s8",
+            "s1"
+        ]
+    },
+    {
+        "driver": "PJ9LL",
+        "routes": [
+            "s3",
+            "s10",
+            "s5",
+            "s2",
+            "s8"
+        ]
+    }
+]
